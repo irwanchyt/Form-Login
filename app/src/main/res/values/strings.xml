@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Form Login</string>
+    <string name="submit">Submit</string>
+    <string name="register_title">Register</string>
+    <string name="email_hint">EMAIL</string>
+    <string name="edit_hint">NAME</string>
+    <string name="password_hint">PASSWORD</string>
+    <string name="gender_label">GENDER</string>
+    <string name="male_radio">MALE</string>
+    <string name="famale_radio"> FEMALE</string>
+
+
+</resources>
